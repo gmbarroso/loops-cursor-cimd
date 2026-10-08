@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/gmbarroso/loops-cursor-cimd@main/loops-cursor-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/gmbarroso/loops-cursor-cimd@v1/loops-cursor-client.json",
   "client_name": "Cursor IDE",
   "redirect_uris": [
     "http://localhost:8787/callback",
